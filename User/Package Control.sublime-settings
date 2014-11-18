@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"AutoSpell",
+		"CodeFormatter",
+		"Ember.js Snippets",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"Handlebars",
+		"JSON Reindent",
+		"JSONLint",
+		"Markdown Preview",
+		"MarkdownTOC",
+		"Origami",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SVN",
+		"TrailingSpaces"
+	]
+}
