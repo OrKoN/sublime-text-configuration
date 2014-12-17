@@ -3,10 +3,12 @@
 	[
 		"AutoSpell",
 		"CodeFormatter",
+		"EditorConfig",
 		"Ember.js Snippets",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Git",
+		"Gutter Color",
 		"Handlebars",
 		"JSON Reindent",
 		"JSONLint",
@@ -15,6 +17,7 @@
 		"Origami",
 		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SVN",
 		"TrailingSpaces"
