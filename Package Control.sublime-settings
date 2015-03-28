@@ -15,14 +15,13 @@
 		"JSON Reindent",
 		"JSONLint",
 		"Markdown Preview",
-		"MarkdownTOC",
 		"Origami",
 		"Package Control",
 		"Pretty YAML",
 		"SublimeLinter",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
-		"SVN",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Whitespace"
 	]
 }
