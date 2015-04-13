@@ -48,8 +48,7 @@
 		".hg",
 		"CVS",
 		"node_modules",
-		".tmp",
-		"dist"
+		".tmp"
 	],
 	"font_face": "DEJA VU SANS MONO",
 	"font_size": 13,
