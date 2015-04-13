@@ -23,6 +23,7 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SVN",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Whitespace"
 	]
 }
