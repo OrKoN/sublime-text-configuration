@@ -1,0 +1,6 @@
+{
+  "jscs_path": {
+    "linux": "/usr/local/bin/jscs"
+  },
+  "format_on_save": false
+}

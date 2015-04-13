@@ -47,9 +47,8 @@
 		".git",
 		".hg",
 		"CVS",
-		".tmp",
 		"node_modules",
-		"dist"
+		".tmp"
 	],
 	"font_face": "DEJA VU SANS MONO",
 	"font_size": 13,
