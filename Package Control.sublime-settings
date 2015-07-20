@@ -6,6 +6,7 @@
 	[
 		"AutoSpell",
 		"CodeFormatter",
+		"Diffy",
 		"EditorConfig",
 		"GhostText",
 		"Git",
@@ -24,6 +25,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SVN",
 		"TrailingSpaces",
 		"Whitespace"

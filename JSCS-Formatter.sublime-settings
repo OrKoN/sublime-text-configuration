@@ -1,6 +1,9 @@
 {
+  "node_path": {
+    "linux": "/usr/local/bin/node"
+  },
   "jscs_path": {
-    "linux": "/usr/local/bin/jscs"
+    "linux": "/home/alex/.npm-packages/bin/jscs"
   },
   "format_on_save": false
 }
