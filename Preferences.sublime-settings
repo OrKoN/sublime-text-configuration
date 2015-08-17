@@ -50,12 +50,12 @@
 		"node_modules"
 	],
 	"font_face": "DEJA VU SANS MONO",
-	"font_size": 14,
+	"font_size": 15,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"remember_full_screen": true,
 	"spell_check": true,
