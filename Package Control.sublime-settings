@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -6,9 +7,7 @@
 	[
 		"AutoSpell",
 		"CodeFormatter",
-		"Diffy",
 		"EditorConfig",
-		"GhostText",
 		"Git",
 		"GotoRowCol",
 		"Gutter Color",
